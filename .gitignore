@@ -9,3 +9,7 @@
 /CameraReviewBackend/CameraReviewReaderService/obj/Debug/net6.0
 /CameraReviewBackend/CameraReviewReaderService/obj
 /CameraReviewBackend/CameraReview.UnitTest/obj
+/CameraReviewBackend/CameraReview.DataAccess/obj
+/CameraReviewBackend/CameraReview.Migration.Service/obj
+/CameraReviewBackend/CameraReview.Reader.API/obj
+/CameraReviewBackend/CameraReview.Writer.API/obj

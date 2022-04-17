@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32408.312
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CameraReviewReaderService", "CameraReviewReaderService\CameraReviewReaderService.csproj", "{D06771DF-1447-4A3E-B7CF-B8D685BDCC1F}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CameraReview.Models", "CameraReview.Models\CameraReview.Models.csproj", "{2A1179B9-7DDC-462D-B745-469FE272D55F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraReview.UnitTest", "CameraReview.UnitTest\CameraReview.UnitTest.csproj", "{DA6A60BE-10C3-4D4E-BF4A-6C15D1BE771A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraReview.DataAccess", "CameraReview.DataAccess\CameraReview.DataAccess.csproj", "{A702A2A7-D279-4767-A25A-C1727108C6C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraReview.Reader.API", "CameraReview.Reader.API\CameraReview.Reader.API.csproj", "{A9E6F676-7380-4535-ADD2-A276BFCFDE05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraReview.Migration.Service", "CameraReview.Migration.Service\CameraReview.Migration.Service.csproj", "{72BC68CB-EAA8-43B8-BE50-5AE00A2F7F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraReview.Writer.API", "CameraReview.Writer.API\CameraReview.Writer.API.csproj", "{341BB85F-C710-4781-84E0-1603D27BC9B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D06771DF-1447-4A3E-B7CF-B8D685BDCC1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D06771DF-1447-4A3E-B7CF-B8D685BDCC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D06771DF-1447-4A3E-B7CF-B8D685BDCC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D06771DF-1447-4A3E-B7CF-B8D685BDCC1F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2A1179B9-7DDC-462D-B745-469FE272D55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2A1179B9-7DDC-462D-B745-469FE272D55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A1179B9-7DDC-462D-B745-469FE272D55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +29,22 @@ Global
 		{DA6A60BE-10C3-4D4E-BF4A-6C15D1BE771A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA6A60BE-10C3-4D4E-BF4A-6C15D1BE771A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA6A60BE-10C3-4D4E-BF4A-6C15D1BE771A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A702A2A7-D279-4767-A25A-C1727108C6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A702A2A7-D279-4767-A25A-C1727108C6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A702A2A7-D279-4767-A25A-C1727108C6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A702A2A7-D279-4767-A25A-C1727108C6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E6F676-7380-4535-ADD2-A276BFCFDE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E6F676-7380-4535-ADD2-A276BFCFDE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E6F676-7380-4535-ADD2-A276BFCFDE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E6F676-7380-4535-ADD2-A276BFCFDE05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72BC68CB-EAA8-43B8-BE50-5AE00A2F7F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BC68CB-EAA8-43B8-BE50-5AE00A2F7F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BC68CB-EAA8-43B8-BE50-5AE00A2F7F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BC68CB-EAA8-43B8-BE50-5AE00A2F7F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341BB85F-C710-4781-84E0-1603D27BC9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341BB85F-C710-4781-84E0-1603D27BC9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341BB85F-C710-4781-84E0-1603D27BC9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341BB85F-C710-4781-84E0-1603D27BC9B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
