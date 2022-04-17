@@ -1,0 +1,12 @@
+C:\Development\RandomCamera\RandomCamera\CameraReviewBackend\CameraReview.Models\bin\Debug\net6.0\CameraReview.Models.deps.json
+C:\Development\RandomCamera\RandomCamera\CameraReviewBackend\CameraReview.Models\bin\Debug\net6.0\CameraReview.Models.dll
+C:\Development\RandomCamera\RandomCamera\CameraReviewBackend\CameraReview.Models\bin\Debug\net6.0\CameraReview.Models.pdb
+C:\Development\RandomCamera\RandomCamera\CameraReviewBackend\CameraReview.Models\obj\Debug\net6.0\CameraReview.Models.csproj.AssemblyReference.cache
+C:\Development\RandomCamera\RandomCamera\CameraReviewBackend\CameraReview.Models\obj\Debug\net6.0\CameraReview.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\RandomCamera\RandomCamera\CameraReviewBackend\CameraReview.Models\obj\Debug\net6.0\CameraReview.Models.AssemblyInfoInputs.cache
+C:\Development\RandomCamera\RandomCamera\CameraReviewBackend\CameraReview.Models\obj\Debug\net6.0\CameraReview.Models.AssemblyInfo.cs
+C:\Development\RandomCamera\RandomCamera\CameraReviewBackend\CameraReview.Models\obj\Debug\net6.0\CameraReview.Models.csproj.CoreCompileInputs.cache
+C:\Development\RandomCamera\RandomCamera\CameraReviewBackend\CameraReview.Models\obj\Debug\net6.0\CameraReview.Models.dll
+C:\Development\RandomCamera\RandomCamera\CameraReviewBackend\CameraReview.Models\obj\Debug\net6.0\refint\CameraReview.Models.dll
+C:\Development\RandomCamera\RandomCamera\CameraReviewBackend\CameraReview.Models\obj\Debug\net6.0\CameraReview.Models.pdb
+C:\Development\RandomCamera\RandomCamera\CameraReviewBackend\CameraReview.Models\obj\Debug\net6.0\ref\CameraReview.Models.dll

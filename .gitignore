@@ -3,3 +3,9 @@
 ################################################################################
 
 /CameraReviewBackend/.vs
+/CameraReviewBackend/CameraReview.UnitTest/bin/Debug/net6.0
+/CameraReviewBackend/CameraReview.UnitTest/obj/Debug/net6.0
+/CameraReviewBackend/CameraReviewReaderService/bin/Debug/net6.0
+/CameraReviewBackend/CameraReviewReaderService/obj/Debug/net6.0
+/CameraReviewBackend/CameraReviewReaderService/obj
+/CameraReviewBackend/CameraReview.UnitTest/obj
