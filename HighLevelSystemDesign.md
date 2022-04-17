@@ -35,9 +35,12 @@ It is also known that the company "RandomCameraReviews" plans to distribute most
 ![Diagram](./diagram.jpg)
 
 ### Modelo de datos
-Poner diseño de entidades, Jsons, tablas, diagramas entidad relación, etc..
+![Diagram](./ERD.jpg)
 
 ---
+
+### Continous Integration
+![Diagram](./CI.jpg)
 ## Limitaciones
 Lista de limitaciones conocidas. Puede ser en formato de lista.
 Ej.
